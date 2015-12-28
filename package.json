@@ -1,0 +1,16 @@
+{
+  "name": "distance",
+  "version": "0.0.1",
+  "description": "distance setter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vicheaux",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.1",
+    "serialport": "^1.7.4",
+    "socket.io": "^1.3.5"
+  }
+}
